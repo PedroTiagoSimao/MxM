@@ -100,7 +100,7 @@ table.bottomBorder td, table.bottomBorder th { border-bottom:1px dotted black;pa
 
             {
 
-                $mydb = new wpdb('mxmultim_hduser','@12345','mxmultim_HelpDesk','localhost');
+                $mydb = new wpdb('***','***','***','localhost');
 
                 
 
