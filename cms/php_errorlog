@@ -1,0 +1,47 @@
+[27-Jan-2012 04:27:47] PHP Parse error:  syntax error, unexpected $end in /home/portugal/public_html/cms/page_edit.php on line 90
+[27-Jan-2012 04:34:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/portugal/public_html/cms/page_action.php on line 20
+[15-Mar-2012 17:52:13] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[15-Mar-2012 17:52:20] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[15-Mar-2012 17:52:30] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[26-Mar-2012 18:24:36] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[22-Apr-2012 10:17:27] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[09-May-2012 08:46:04] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[09-May-2012 08:46:33] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[29-May-2012 06:17:27] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
+[18-Aug-2012 15:22:45] PHP Fatal error:  Uncaught exception 'Zend_Gdata_App_AuthException' with message 'Authentication with Google failed. Reason: BadAuthentication' in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php:175
+Stack trace:
+#0 /home/portugal/public_html/cms/analytics.php(11): Zend_Gdata_ClientLogin::getHttpClient('pedrosimao@gmai...', '4f0n5051m40', 'analytics')
+#1 {main}
+  thrown in /home/portugal/public_html/cms/Zend/Gdata/ClientLogin.php on line 175
